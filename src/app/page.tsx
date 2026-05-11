@@ -20,7 +20,8 @@ export default function Home() {
             </p>
             <div className="flex flex-wrap gap-4 pt-4">
               <a
-                href="#cv"
+                href="/curriculo.pdf"
+                download="Curriculo_Higor_Germano.pdf"
                 className="px-8 py-3 bg-white text-black font-bold rounded-lg transition-all duration-300 hover:scale-105 hover:shadow-[0_0_25px_rgba(255,255,255,0.4)]"
               >
                 Download CV
